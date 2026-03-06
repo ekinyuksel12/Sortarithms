@@ -1,7 +1,11 @@
-# Sortarithms
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# Sortarithms: Algorithm Benchmarking Suite
 
-This project demonstrates the implementation of various sorting algorithms in Python. The repository includes implementations for selection sort, insertion sort, bubble sort, merge sort, and quick sort. Additionally, it provides a utility to generate random lists for testing purposes.
+A comprehensive visualization and benchmarking tool for fundamental sorting algorithms, demonstrating time-complexity in action.
+
+## Engineering Focus
+Understanding Big O notation and memory constraints is critical for system optimization. This project was built to empirically test and visualize the performance degradation of various algorithms under load.
+* **Empirical Profiling:** Analyzes the real-world execution time of algorithms (Quick, Merge, Heap, etc.) across vastly different data sets and edge cases (e.g., nearly sorted arrays vs. fully reversed arrays).
+* **Algorithmic Efficiency:** Demonstrates deep theoretical knowledge of data structures, swapping mechanisms, and stack-depth management in recursive algorithms.
 
 ## Features
 
